@@ -20,6 +20,6 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.GandhiMilind:AndroidRunTimePermission:Tag'
+	        implementation 'com.github.GandhiMilind:AndroidRunTimePermission:1.0.0'
 	}
 
